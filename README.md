@@ -1,6 +1,8 @@
-# Online Events And Hackathons
+# Events And Hackathons
 
-## This is a collection of ***Online events and Hackathons***. We as a student always forget the dates of the Events and recall after the date is over to fill the form.
+## This is a collection of **Events and Hackathons** *(in-person or virtual)*. We as a student always forget the dates of the Events and recall after the date is over to fill the form.
+
+`P.s. This is a NO CODE & LOW CODE repository for beginners starting their journey in Opensource from Hacktoberfest`
 
 <br>
 
