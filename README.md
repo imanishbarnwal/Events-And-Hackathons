@@ -45,7 +45,7 @@
 <summary> Offline Hackathons </summary>
 <!-- Add hackthons must include locations & Valid Links -->
 
-</deatils>
+</details>
 <br>
 
 # <u>`February` :seedling: </u>  
@@ -53,6 +53,8 @@
 ## :high_brightness: Events
 
 <details>
+<summary> Online Events </summary>
+<!-- Add events Fest etc must Valid Links -->
 
 ### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
 	    Organisation form start  
@@ -63,13 +65,28 @@
 ***JIIT Month of Code*** is an online programme by the open-source club of Jaypee Institute of Information Technology, JIIT Noida-128, the JODC, focused on introducing students to open source software development and documentation writing.
 </details>
 
+<details>
+<summary> Offline Events </summary>
+<!-- Add events Fest etc must include locations & Valid Links -->
+
+
+</details>
+
 ## :1st_place_medal: Hackathons
 
 <details>
+<summary> Online Hackathons </summary>
+<!-- Add hackthons must include Valid Links for registration -->
 
 ### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
 	    Organisation form start  
 ***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+</details>
+
+<details>
+<summary> Offline Hackathons </summary>
+<!-- Add hackthons must include locations & Valid Links -->
+
 </details>
 <br>
 
