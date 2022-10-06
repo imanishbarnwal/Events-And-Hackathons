@@ -197,6 +197,10 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 <summary> Offline Events </summary>
 <!-- Add events Fest etc must include locations & Valid Links -->
 
+### 1- Google I/O [Link](https://io.google/)  
+	     Registrations closed
+***Google I/O*** is Google's flagship event connects developers from around the world for thoughtful discussions, insights from Google experts, and a first look at the latest developer products.
+
 
 </details>
 
