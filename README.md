@@ -449,6 +449,10 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 <summary> Offline Events </summary>
 <!-- Add events Fest etc must include locations & Valid Links -->
 
+### 1- GitHub Universe [Link](https://githubuniverse.com/)
+	    Registration form open  
+***Github Universe*** is GitHub's global developer event for cloud, security, community, and AI and much more. With more than 80 sessions covering cloud, security, community, and AI learning tracks, there’s no shortage of topics to immerse yourself and your teams in.
+
 
 </details>
 
@@ -490,7 +494,6 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 <details>
 <summary> Offline Events </summary>
 <!-- Add events Fest etc must include locations & Valid Links -->
-
 
 </details>
 
