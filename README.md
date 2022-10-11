@@ -167,6 +167,10 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 ### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
 	    Organisation form start  
 ***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+
+### 2- Hack4Bengal [Link](https://hack4bengal.tech)
+	    Registration Open  
+***Hack4Bengal*** is a 48 hrs National Hackathon aimed at the idea of bringing together the best of the best in the field of technology and provide a platform for the students to showcase their skills and work.
 </details>
 
 <details>
