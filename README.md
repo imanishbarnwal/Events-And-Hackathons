@@ -340,7 +340,7 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 <summary> Offline Events </summary>
 <!-- Add events Fest etc must include locations & Valid Links -->
 
-### 1- GDG Cloud Community Days Bengalore 2022 [Link](https://gdg.community.dev/events/details/google-gdg-cloud-bengaluru-presents-google-cloud-community-day-bangalore/)  
+### 1- GDG Cloud Community Days Bangalore 2022 [Link](https://gdg.community.dev/events/details/google-gdg-cloud-bengaluru-presents-google-cloud-community-day-bangalore/)  
 	     Application Closed  
 ***GDG Cloud Community Days 2022*** is a community organized cloud conference with industry experts presenting on exciting topics! Cloud Community Day is powered by a shared belief that when developers come together to exchange ideas, amazing things can happen.
 <br>**Location: Bangalore, Karnataka**</br>
