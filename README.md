@@ -289,6 +289,15 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 <summary> Offline Events </summary>
 <!-- Add events Fest etc must include locations & Valid Links -->
 
+### 1- GDG Cloud Community Days Chennai 2022 [Link](https://gdg.community.dev/events/details/google-gdg-cloud-chennai-presents-google-cloud-community-day-2022-chennai/)  
+	     Application Closed  
+***GDG Cloud Community Days 2022*** is a community organized cloud conference with industry experts presenting on exciting topics! Cloud Community Day is powered by a shared belief that when developers come together to exchange ideas, amazing things can happen.
+<br>**Location: Chennai, Tamil Nadu**</br>
+
+### 2 - GDG Cloud Community Days Kochi 2022 [Link](https://gdg.community.dev/events/details/google-gdg-cloud-kochi-presents-cloud-community-day-2022-kochi/)  
+	     Application Closed  
+***GDG Cloud Community Days 2022*** is a community organized cloud conference with industry experts presenting on exciting topics! Cloud Community Day is powered by a shared belief that when developers come together to exchange ideas, amazing things can happen.
+<br>**Location: Kochi, Kerela**</br>
 
 </details>
 
@@ -331,6 +340,11 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 <summary> Offline Events </summary>
 <!-- Add events Fest etc must include locations & Valid Links -->
 
+### 1- GDG Cloud Community Days Kolkata 2022 [Link](https://gdgcloud.kolkata.dev/ccd2022/#/ccd2022)  
+	     Application Closed  
+***GDG Cloud Community Days 2022*** is a community organized cloud conference with industry experts presenting on exciting topics! Cloud Community Day is powered by a shared belief that when developers come together to exchange ideas, amazing things can happen.
+<br>**Location: Kolkata, West Bengal**</b>
+</details>
 
 </details>
 
@@ -385,6 +399,10 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 ### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
 	    Organisation form start  
 ***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+
+### 2- Hackodisha 2.0 [Link](https://hackodisha2022.tech/)
+	    Registration Closed  
+***Hackodisha 2.0*** is a hackthon aimed to bring creatives and developers together to solve some of the most pressing problems faced by communities all over the world. This 36-hour-long event will bring together technocrats from all over the country. 
 </details>
 
 <details>
