@@ -418,13 +418,9 @@ The participants get a chance to contribute to numerous projects under the guida
 <summary> Online Events </summary>
 <!-- Add events Fest etc must Valid Links -->
 
-### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
-	    Organisation form start  
-***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
-
-### 2- JIIT Open-Source Developers Circle [Link](https://jiitodc.netlify.app/)  
-	     Student Application form open  
-***JIIT Month of Code*** is an online programme by the open-source club of Jaypee Institute of Information Technology, JIIT Noida-128, the JODC, focused on introducing students to open source software development and documentation writing.
+### 1- Hacktoberfest [Link](https://hacktoberfest.com/)
+	    Registration & Contribution Start  
+***Hacktoberfest*** is a global open source cotribution fest. Whether it's your first time or your ninth, it's almost time to hack out four pristine PULL/MERGE requests and complete your mission for open source. Hacktoberfest isn't all about code. Anyone who writes, designs, tests, mentors, or organizes offers much need support for the open-source projects all over the world.
 </details>
 
 <details>
@@ -440,9 +436,7 @@ The participants get a chance to contribute to numerous projects under the guida
 <summary> Online Hackathons </summary>
 <!-- Add hackthons must include Valid Links for registration -->
 
-### 1- Hacktoberfest [Link](https://hacktoberfest.com/)
-	    Registration Open  
-***Hacktoberfest*** is a global open source cotribution fest. Whether it's your first time or your ninth, it's almost time to hack out four pristine PULL/MERGE requests and complete your mission for open source. Hacktoberfest isn't all about code. Anyone who writes, designs, tests, mentors, or organizes offers much need support for the open-source projects all over the world. 
+ 
 </details>
 
 <details>
