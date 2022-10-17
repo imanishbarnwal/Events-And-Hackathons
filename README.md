@@ -336,7 +336,7 @@ The participants get a chance to contribute to numerous projects under the guida
 	     Application Closed  
 ***GDG Cloud Community Days 2022*** is a community organized cloud conference with industry experts presenting on exciting topics! Cloud Community Day is powered by a shared belief that when developers come together to exchange ideas, amazing things can happen.
 
-<br>**Location: Kolkata, West Bengal**</b>
+<br>**Location: Kolkata, West Bengal**</br>
 </details>
 
 ## :1st_place_medal: Hackathons
@@ -379,7 +379,17 @@ The participants get a chance to contribute to numerous projects under the guida
 <summary> Offline Events </summary>
 <!-- Add events Fest etc must include locations & Valid Links -->
 
+### 1- GDG Cloud Community Days Trivandrum 2022 [Link](https://gdg.community.dev/events/details/google-gdg-cloud-trivandrum-presents-cloud-community-day-2022-trivandrum/)  
+	     Application Closed  
+***GDG Cloud Community Days 2022*** is a community organized cloud conference with industry experts presenting on exciting topics! Cloud Community Day is powered by a shared belief that when developers come together to exchange ideas, amazing things can happen.
 
+<br>**Location: Trivandrum, Kerela**</br>
+
+### 2- GDG Cloud Community Days Hyderabad 2022 [Link](https://gdg.community.dev/events/details/google-gdg-cloud-hyderabad-presents-cloud-community-days-hyderabad-2022-1/)  
+	     Application Closed  
+***GDG Cloud Community Days 2022*** is a flagship event organised by GDG Cloud communities in India to help you prepare for Google Cloud Certifications and help you in professional life to know and grow better on Cloud. Cloud Community Day is powered by a shared belief that when developers come together to exchange ideas, amazing things can happen.
+
+<br>**Location: Hyderabad, Telangana**</br>
 </details>
 
 ## :1st_place_medal: Hackathons
