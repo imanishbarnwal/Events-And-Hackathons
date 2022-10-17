@@ -437,7 +437,7 @@ The participants get a chance to contribute to numerous projects under the guida
 <!-- Add hackthons must include Valid Links for registration -->
 
 ### 1- Imagine Cup [Link](https://imaginecup.microsoft.com/en-us)
-	    Registration & Contribution Start  
+	    Registration Open  
 ***Imagine Cup*** is the premier global student technology competition by Microsoft that offers students the opportunity to unleash their passion and purpose to develop inspiring leading-edge technology solutions in one of four competition categories—Earth, Education, Health, and Lifestyle--that could make a difference in the world. 
  
 </details>
@@ -458,7 +458,7 @@ The participants get a chance to contribute to numerous projects under the guida
 <!-- Add events Fest etc must Valid Links -->
 
 ### 1- Kick Start [Link](https://codingcompetitions.withgoogle.com/kickstart)
-	    Registration for Round H Open 
+	    Registration Open 
 ***Kick Start*** is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google. 
 
 </details>
