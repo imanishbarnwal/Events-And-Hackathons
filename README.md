@@ -58,13 +58,9 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 <summary> Online Events </summary>
 <!-- Add events Fest etc must Valid Links -->
 
-### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
-	    Organisation form start  
-***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
-
-### 2- JIIT Open-Source Developers Circle [Link](https://jiitodc.netlify.app/)  
-	     Student Application form open  
-***JIIT Month of Code*** is an online programme by the open-source club of Jaypee Institute of Information Technology, JIIT Noida-128, the JODC, focused on introducing students to open source software development and documentation writing.
+### 1- **Code Jam** [Link](https://codingcompetitions.withgoogle.com/codejam)
+	     Registration Starts
+***Code Jam*** is Google's longest running global coding competition, where programmers of all levels put their skills to the test. Competitors work their way through a series of online algorithmic puzzles to earn a spot at the World Finals, all for a chance to win the championship title and $15,000 USD.
 </details>
 
 <details>
@@ -101,8 +97,9 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 <!-- Add events Fest etc must Valid Links -->
 
 ### 1- **GirlScript Summer of Code** [Link](https://gssoc.girlscript.tech/)
+	     Registration Starts
 
-GirlScript Summer of Code is a three-month-long Open- Source Program conducted by GirlScript Foundation.
+***GirlScript Summer of Code*** is a three-month-long Open- Source Program conducted by GirlScript Foundation.
 The participants get a chance to contribute to numerous projects under the guidance of skilled mentors.
 </details>
 
@@ -322,13 +319,7 @@ The participants get a chance to contribute to numerous projects under the guida
 <summary> Online Events </summary>
 <!-- Add events Fest etc must Valid Links -->
 
-### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
-	    Organisation form start  
-***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
 
-### 2- JIIT Open-Source Developers Circle [Link](https://jiitodc.netlify.app/)  
-	     Student Application form open  
-***JIIT Month of Code*** is an online programme by the open-source club of Jaypee Institute of Information Technology, JIIT Noida-128, the JODC, focused on introducing students to open source software development and documentation writing.
 </details>
 
 <details>
@@ -348,17 +339,16 @@ The participants get a chance to contribute to numerous projects under the guida
 <br>**Location: Kolkata, West Bengal**</b>
 </details>
 
-</details>
-
 ## :1st_place_medal: Hackathons
 
 <details>
 <summary> Online Hackathons </summary>
 <!-- Add hackthons must include Valid Links for registration -->
 
-### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
-	    Organisation form start  
-***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+### 1- **Smart India Hackathon** [Link](https://www.sih.gov.in/)
+		Hackathon Starts
+***Smart India Hackathon*** is a national-level hackathon introduced by the Ministry of Education(MoE) of India. SIH provides a platform for the students to solve some real-world problems through their problem-solving abilities and innovative ideas. There are numerous themes based on the problems faced by Corporates, NGOs, and PSUs.
+***Eligibility Criteria:*** Students from classes 6 to 12 and college students pursuing graduate or postgraduate programs are eligible for forming teams and participating in this hackathon.
 </details>
 
 <details>
