@@ -443,10 +443,9 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 <summary> Online Hackathons </summary>
 <!-- Add hackthons must include Valid Links for registration -->
 
-### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
-	    Organisation form start  
-***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
-</details>
+### 1- Hacktoberfest [Link](https://hacktoberfest.com/)
+	    Registration Open  
+***Hacktoberfest*** is a global open source cotribution fest. Whether it's your first time or your ninth, it's almost time to hack out four pristine PULL/MERGE requests and complete your mission for open source. Hacktoberfest isn't all about code. Anyone who writes, designs, tests, mentors, or organizes offers much need support for the open-source projects all over the world.
 
 <details>
 <summary> Offline Hackathons </summary>
@@ -479,7 +478,7 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 ### 1- GitHub Universe [Link](https://githubuniverse.com/)
 	    Registration form open  
 ***Github Universe*** is GitHub's global developer event for cloud, security, community, and AI and much more. With more than 80 sessions covering cloud, security, community, and AI learning tracks, there’s no shortage of topics to immerse yourself and your teams in.
-### 2- DevFest 2022[Link](https://devfest.gdgkolkata.in/)
+### 2- DevFest [Link](https://devfest.gdgkolkata.in/)
 	    Registration form open  
 ***DevFest*** DevFest is an annual decentralized tech conference hosted by the Google Developer Groups (GDG) community. GDGs host these events around the globe. Whether you're passionate about finding new opportunities, elevating your knowledge on the latest Google developer tools, or exploring how to use Google technologies to generate social and economic impact, DevFest offers an amazing platform for developers to connect locally, learn, and build on Google's tools.
 
