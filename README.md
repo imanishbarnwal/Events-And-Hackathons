@@ -100,13 +100,10 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 <summary> Online Events </summary>
 <!-- Add events Fest etc must Valid Links -->
 
-### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
-	    Organisation form start  
-***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+### 1- **GirlScript Summer of Code** [Link](https://gssoc.girlscript.tech/)
 
-### 2- JIIT Open-Source Developers Circle [Link](https://jiitodc.netlify.app/)  
-	     Student Application form open  
-***JIIT Month of Code*** is an online programme by the open-source club of Jaypee Institute of Information Technology, JIIT Noida-128, the JODC, focused on introducing students to open source software development and documentation writing.
+GirlScript Summer of Code is a three-month-long Open- Source Program conducted by GirlScript Foundation.
+The participants get a chance to contribute to numerous projects under the guidance of skilled mentors.
 </details>
 
 <details>
