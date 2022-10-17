@@ -445,7 +445,8 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 
 ### 1- Hacktoberfest [Link](https://hacktoberfest.com/)
 	    Registration Open  
-***Hacktoberfest*** is a global open source cotribution fest. Whether it's your first time or your ninth, it's almost time to hack out four pristine PULL/MERGE requests and complete your mission for open source. Hacktoberfest isn't all about code. Anyone who writes, designs, tests, mentors, or organizes offers much need support for the open-source projects all over the world.
+***Hacktoberfest*** is a global open source cotribution fest. Whether it's your first time or your ninth, it's almost time to hack out four pristine PULL/MERGE requests and complete your mission for open source. Hacktoberfest isn't all about code. Anyone who writes, designs, tests, mentors, or organizes offers much need support for the open-source projects all over the world. 
+</details>
 
 <details>
 <summary> Offline Hackathons </summary>
