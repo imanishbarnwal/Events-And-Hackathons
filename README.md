@@ -447,10 +447,6 @@ The participants get a chance to contribute to numerous projects under the guida
 ### 1- Imagine Cup [Link](https://imaginecup.microsoft.com/en-us)
 	    Registration Open  
 ***Imagine Cup*** is the premier global student technology competition by Microsoft that offers students the opportunity to unleash their passion and purpose to develop inspiring leading-edge technology solutions in one of four competition categories—Earth, Education, Health, and Lifestyle--that could make a difference in the world. 
-
-### 2- Version Beta [Link](https://versionbeta.istemanit.in/)
-	    Registration Open  
-***Version Beta*** is Central India's largest students' held hackathon in which students from all over the country compete against each other for 36 hours non-stop and put their coding skills to test. If you are a college student who is interested in solving real-life problems through the virtual world of your laptop screens, you're at the right place. The Hackathon is just for you. 
  
 </details>
 
@@ -458,6 +454,11 @@ The participants get a chance to contribute to numerous projects under the guida
 <summary> Offline Hackathons </summary>
 <!-- Add hackthons must include locations & Valid Links -->
 
+### 1- Version Beta [Link](https://versionbeta.istemanit.in/)
+	    Registration Open  
+***Version Beta*** is Central India's largest students' held hackathon in which students from all over the country compete against each other for 36 hours non-stop and put their coding skills to test. If you are a college student who is interested in solving real-life problems through the virtual world of your laptop screens, you're at the right place. The hackathon comes as a combo package of rewards and on-campus experience of NIT Bhopal.
+
+<br>**Location: NIT Bhopal, Madhya Pradesh**</br>
 </details>
 <br>
 
@@ -482,11 +483,14 @@ The participants get a chance to contribute to numerous projects under the guida
 ### 1- GitHub Universe [Link](https://githubuniverse.com/)
 	    Registration form open  
 ***Github Universe*** is GitHub's global developer event for cloud, security, community, and AI and much more. With more than 80 sessions covering cloud, security, community, and AI learning tracks, there’s no shortage of topics to immerse yourself and your teams in.
+
+<br>**Location: San Fransisco, US**</br>
+
 ### 2- DevFest [Link](https://devfest.gdgkolkata.in/)
 	    Registration form open  
 ***DevFest*** DevFest is an annual decentralized tech conference hosted by the Google Developer Groups (GDG) community. GDGs host these events around the globe. Whether you're passionate about finding new opportunities, elevating your knowledge on the latest Google developer tools, or exploring how to use Google technologies to generate social and economic impact, DevFest offers an amazing platform for developers to connect locally, learn, and build on Google's tools.
 
-<br>**Location: Kolkata, West Bengal**</b>
+<br>**Location: Kolkata, West Bengal**</br>
 
 </details>
 
