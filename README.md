@@ -130,7 +130,6 @@ Registration Starts
 <summary> Online Hackathons </summary>
 
 <!-- Add hackthons must include Valid Links for registration -->
-
   
 
 ### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
@@ -138,6 +137,11 @@ Registration Starts
 Organisation form start
 
 ***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+
+
+### 1- **Uber HackTag** [Link](https://unstop.com/hackathon/uber-hacktag-20-uber-technologies-inc-260528)
+	   Registration Starts
+***Uber HackTag*** is a two-month long hackathon, centred around 'Building solutions for the next billion users', brought together some of the brightest young engineering minds.Uber HackTag is open to all engineering students across India from all years, pursuing a full-time B.Tech./ B.E./Dual-Degree/ M.Tech./ M.E. degree in any branch.
 
 </details>
 
@@ -703,6 +707,13 @@ Registration & Contribution Start
 
 ***Hacktoberfest*** is a global open source cotribution fest. Whether it's your first time or your ninth, it's almost time to hack out four pristine PULL/MERGE requests and complete your mission for open source. Hacktoberfest isn't all about code. Anyone who writes, designs, tests, mentors, or organizes offers much need support for the open-source projects all over the world.
 
+### 2- Google Cloud Next [Link](https://cloud.withgoogle.com/next)
+	    Registration Closed  
+***Google Cloud Next*** is a global conference that brings together thousands of the brightest and most innovative thinkers in the world. Whether you are a CEO, a developer, or just someone passionate about learning solutions and ideas for the next generation of the cloud, Next provides thousands of demonstrations, boot camps, keynotes, conversations, and breakouts to choose from.
+
+### 3- Women Techmakers [Link](https://developers.google.com/womentechmakers)
+	    Registration Open  
+***Women Techmakers Ambassador*** program supports women in technology who are looking to create impact and give back to their communities. As an Ambassador, you’ll engage with your community by participating in one or more leadership activities on a quarterly basis. Ambassadors receive support from Google and the larger Ambassador community.
 </details>
 
   
@@ -748,7 +759,12 @@ Registration Open
 
 <!-- Add hackthons must include locations & Valid Links -->
 
-  
+
+### 1- Version Beta [Link](https://versionbeta.istemanit.in/)
+	    Registration Open  
+***Version Beta*** is Central India's largest students' held hackathon in which students from all over the country compete against each other for 36 hours non-stop and put their coding skills to test. If you are a college student who is interested in solving real-life problems through the virtual world of your laptop screens, you're at the right place. The hackathon comes as a combo package of rewards and on-campus experience of NIT Bhopal.
+
+<br>**Location: NIT Bhopal, Madhya Pradesh**</br>
 
 </details>
 
@@ -796,6 +812,10 @@ Registration form open
 
 ***Github Universe*** is GitHub's global developer event for cloud, security, community, and AI and much more. With more than 80 sessions covering cloud, security, community, and AI learning tracks, there’s no shortage of topics to immerse yourself and your teams in.
 
+
+<br>**Location: San Fransisco, US**</br>
+
+
 ### 2- DevFest [Link](https://devfest.gdgkolkata.in/)
 
 Registration form open
@@ -805,6 +825,9 @@ Registration form open
   
 
 <br>**Location: Kolkata, West Bengal**</b>
+
+<br>**Location: Kolkata, West Bengal**</br>
+
 
   
 
