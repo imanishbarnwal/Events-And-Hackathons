@@ -76,9 +76,9 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 <summary> Online Hackathons </summary>
 <!-- Add hackthons must include Valid Links for registration -->
 
-### 1- Google Summer of Code [Link](https://summerofcode.withgoogle.com)
-	    Organisation form start  
-***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
+### 1- **Uber HackTag** [Link](https://unstop.com/hackathon/uber-hacktag-20-uber-technologies-inc-260528)
+	   Registration Starts
+***Uber HackTag*** is a two-month long hackathon, centred around 'Building solutions for the next billion users', brought together some of the brightest young engineering minds.Uber HackTag is open to all engineering students across India from all years, pursuing a full-time B.Tech./ B.E./Dual-Degree/ M.Tech./ M.E. degree in any branch.
 </details>
 
 <details>
