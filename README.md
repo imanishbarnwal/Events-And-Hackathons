@@ -474,6 +474,10 @@ The participants get a chance to contribute to numerous projects under the guida
 	    Registration Open 
 ***Kick Start*** is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google. 
 
+### 2- Social Winter of Code [Link](https://swoc.getsocialnow.co)
+	    Registration Open 
+***Script Winter of Code*** is an open-source program envisioned by the Social. It aims to bring students into the world of open source development and see the power of unified problem-solving in real time. The projects that we will host have been carefully hand-picked to invigorate creative thinking and encourage collaboration among all participants. 
+
 </details>
 
 <details>
