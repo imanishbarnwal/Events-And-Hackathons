@@ -473,6 +473,9 @@ The participants get a chance to contribute to numerous projects under the guida
 ### 1- Kick Start [Link](https://codingcompetitions.withgoogle.com/kickstart)
 	    Registration Open 
 ***Kick Start*** is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google. 
+### 2- FOSS Overflow [Link](https://fossoverflow.dev/)
+	    Registration Open
+***FOSS Overflow*** is a program by OpenLake and GDSC IIT Bhilai that helps students to get started with the world of open source by helping them build real world open sourced projects under guidance of awesome mentors.
 
 </details>
 
