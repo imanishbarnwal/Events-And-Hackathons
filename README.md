@@ -79,6 +79,11 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 ### 1- **Uber HackTag** [Link](https://unstop.com/hackathon/uber-hacktag-20-uber-technologies-inc-260528)
 	   Registration Starts
 ***Uber HackTag*** is a two-month long hackathon, centred around 'Building solutions for the next billion users', brought together some of the brightest young engineering minds.Uber HackTag is open to all engineering students across India from all years, pursuing a full-time B.Tech./ B.E./Dual-Degree/ M.Tech./ M.E. degree in any branch.
+
+
+### 2- **Google Season of Docs** [Link](https://developers.google.com/season-of-docs)
+	   Registration Starts
+***Season of Docs*** provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source. Together we raise awareness of open source, of docs, and of technical writing.
 </details>
 
 <details>
@@ -473,6 +478,11 @@ The participants get a chance to contribute to numerous projects under the guida
 ### 1- Kick Start [Link](https://codingcompetitions.withgoogle.com/kickstart)
 	    Registration Open 
 ***Kick Start*** is a global online coding competition, consisting of three-hour rounds of a variety of algorithmic challenges designed by Google engineers. Participants can compete in one or all online rounds held throughout the year, and will have the opportunity to develop and grow their programming abilities while getting a glimpse into the technical skills needed for a career at Google. 
+
+
+### 2- Social Winter Code [Link](https://www.apollo.io/companies/Script-Winter-of-Code/60487384d020180001c0d123?chart=count)
+	    Registration Open 
+***Script Winter of Code *** is an open source program by Script Foundation for students to get them into the world of open source development. We would be hosting and maintaining projects,and students would be working on them under the mentorship of the project mentors.The program aims to uplift the student community by making them understand the process of software development and importance of open source contributions
 
 </details>
 
