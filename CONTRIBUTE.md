@@ -13,3 +13,5 @@
 ### To Open an issue:  
 -   You can create a new issue and send the fix through a pull request.  
 -   Please go through our issue list first (open as well as closed) and make sure the issue you are reporting does not replicate an issue already reported.
+
+### This is Awesome 🔥
