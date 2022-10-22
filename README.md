@@ -140,6 +140,10 @@ The participants get a chance to contribute to numerous projects under the guida
 	    Organisation form start  
 ***Google Summer of Code*** is a global program focused on introducing students to open source software development. Students work on a 3-month programming project with an open-source organization during their break from university.
 
+### 1- Google Cloud Ready Facilator Program [Link](https://events.withgoogle.com/googlecloudready-facilitator-program/#content)
+	    Enrolments are currently closed  
+***Google Summer of Code*** The GoogleCloudReady Facilitator program will provide you an opportunity to kickstart your career in cloud and get hands on practice on Google Cloud - the tool that powers apps like Google Search, Gmail and YouTube. Along the way, you will learn & practice concepts like computing, application development, big data & machine learning using cloud & if you get stuck, you will have your "Facilitators" who are specially trained on Google Cloud to help. 
+	
 ### 2- JIIT Open-Source Developers Circle [Link](https://jiitodc.netlify.app/)  
 	     Student Application form open  
 ***JIIT Month of Code*** is an online programme by the open-source club of Jaypee Institute of Information Technology, JIIT Noida-128, the JODC, focused on introducing students to open source software development and documentation writing.
