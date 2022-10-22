@@ -231,7 +231,10 @@ The participants get a chance to contribute to numerous projects under the guida
 ### 2- JIIT Open-Source Developers Circle [Link](https://jiitodc.netlify.app/)  
 	     Student Application form open  
 ***JIIT Month of Code*** is an online programme by the open-source club of Jaypee Institute of Information Technology, JIIT Noida-128, the JODC, focused on introducing students to open source software development and documentation writing.
-</details>
+### 3- Social Summer of Code [Link]([(https://ssoc.getsocialnow.co/])
+	    Organisation form start  
+***SSOC is a 3 Month Open Source Program Organized By Social.
+They aim to promote open source with new age technologies & want everyone to get the right path & gudience through SSOC
 
 <details>
 <summary> Offline Events </summary>
