@@ -79,6 +79,11 @@ Before contributing make sure to read [Contribution Guidelines](CONTRIBUTE.md).
 ### 1- **Uber HackTag** [Link](https://unstop.com/hackathon/uber-hacktag-20-uber-technologies-inc-260528)
 	   Registration Starts
 ***Uber HackTag*** is a two-month long hackathon, centred around 'Building solutions for the next billion users', brought together some of the brightest young engineering minds.Uber HackTag is open to all engineering students across India from all years, pursuing a full-time B.Tech./ B.E./Dual-Degree/ M.Tech./ M.E. degree in any branch.
+
+
+### 2- **Google Season of Docs** [Link](https://developers.google.com/season-of-docs)
+	   Registration Starts
+***Season of Docs*** provides support for open source projects to improve their documentation and gives professional technical writers an opportunity to gain experience in open source. Together we raise awareness of open source, of docs, and of technical writing.
 </details>
 
 <details>
