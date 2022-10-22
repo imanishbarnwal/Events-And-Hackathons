@@ -514,6 +514,15 @@ The participants get a chance to contribute to numerous projects under the guida
 <!-- Add hackthons must include locations & Valid Links -->
 
 </details>
+
+<details>
+<summary> Winter of Code </summary>
+<!-- Add hackthons must include locations & Valid Links -->
+	[Link](https://winterofcode.com/)
+	Apply for Winter of Code 
+
+</details>
+
 <br>
 
 # <u>`December` :seedling: </u>  
