@@ -798,6 +798,10 @@ Registration Open
 	    Registration Open 
 ***Script Winter of Code*** is an open-source program envisioned by the Social. It aims to bring students into the world of open source development and see the power of unified problem-solving in real time. The projects that we will host have been carefully hand-picked to invigorate creative thinking and encourage collaboration among all participants. 
 
+### 3- DevScript Winter of Code [Link](https://devscript.org/woc/)
+	    Registration Open 
+***DevScript Winter of Code*** is an open-source program envisioned by DevScript that helps understand the paradigm of Open Source contribution. It aims to bring students into the world of open source development and see the power of unified problem solving in real time.
+
 </details>
 
   
